@@ -1,0 +1,8 @@
+#carouselOffers {
+    min-height: 600px;
+}
+.intro {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
